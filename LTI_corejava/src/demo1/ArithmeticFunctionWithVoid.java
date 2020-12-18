@@ -17,7 +17,7 @@ public class ArithmeticFunctionWithVoid {
 		// TODO Auto-generated method stub
  
 	ArithmeticFunctionWithVoid call = new ArithmeticFunctionWithVoid();
-	call.add(2, 4);
+	call.add(20000, 4);
 	call.div(45, 5);
 	call.multi(2, 9);
 	call.sub(33, 8);
